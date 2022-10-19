@@ -1,0 +1,31 @@
+---
+title: "data list"
+format: html
+editor: visual
+---
+
+## This is where I retrieve the data from for Project GOVT670
+
+-   \[[Street Light](https://opendata.dc.gov/datasets/DCGIS::street-lights/about)\]
+
+-   \[[Car Crash](https://opendata.dc.gov/datasets/DCGIS::crash-details-table/explore)\]
+
+-   \[[Crashes in DC](https://opendata.dc.gov/datasets/DCGIS::crashes-in-dc/explore?location=38.893706)\]
+
+-   \[[Some Info by DC Ward](https://opendata.dc.gov/datasets/acs-economic-characteristics-dc-ward/explore?location=38.940965)\]
+
+-   \[[Wards from 2022](https://opendata.dc.gov/datasets/DCGIS::wards-from-2022/explore?location=38.893755)\]
+
+-   \[[Economic ACS Characteristics 2011-2015](https://opendata.dc.gov/datasets/economic-acs-characteristics-2011-to-2015/explore)\]
+
+-   \[[Traffic Camera in DC](https://opendata.dc.gov/datasets/traffic-camera/about)\]
+
+-   \[[Moving Violations Issued in May 2018](https://opendata.dc.gov/datasets/87a2d2f6a8124b1e9d7406185d8fec80/explore)\]
+
+-   \[[pavement marking](https://opendata.dc.gov/datasets/DCGIS::pavement-marking/explore?location=38.892509%2C-77.020630%2C12.66)\]
+
+-   \[[Traffic Pole](https://opendata.dc.gov/datasets/DCGIS::traffic-pole/explore?location=38.892509%2C-77.020630%2C12.66)\]
+
+-   \[[Traffic Signal Cabinets](https://opendata.dc.gov/datasets/DCGIS::traffic-signal-cabinets/explore?location=38.892509%2C-77.020630%2C12.66)\]
+
+-   \[[Traffic Monitoring Stations](https://opendata.dc.gov/datasets/DCGIS::traffic-monitoring-stations/explore?location=38.892509%2C-77.020630%2C12.66)\]
